@@ -1,4 +1,11 @@
-# UdaciRacer Simulation Game
+# UdaciRacer Simulation Game 🏎
+
+![image](https://user-images.githubusercontent.com/52779920/194504337-344c0d7f-d9eb-499b-b032-035f36b0f9db.png)
+
+![image](https://user-images.githubusercontent.com/52779920/194504401-ff23b9f2-55b9-494b-8d66-4aec6707f847.png)
+
+![image](https://user-images.githubusercontent.com/52779920/194504447-cd5e3656-254e-4348-9051-30cb2535d16a.png)
+
 
 ## Project Introduction
 
@@ -11,14 +18,6 @@ The game has three main views:
 2. The race progress view (this includes the live-updating leaderboard and acceleration button)
 
 3. The race results view
-
-## Starter Code
-
-We have supplied you with the following:
-
-1. An API. The API is provided in the form of a binary held in the bin folder. You never need to open the binary file, as there are no edits you can make to it. Your work will be 100% in the front end.
-
-2. HTML Views. The focus of this course is not UI development or styling practice, so we have already provided you with pieces of UI, all you have to do is call them at the right times.
 
 ## Getting Started
 
