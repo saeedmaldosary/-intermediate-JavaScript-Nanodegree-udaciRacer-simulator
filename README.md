@@ -45,8 +45,6 @@ If you are using a windows machine:
 2. Run the following command to add the environment variable:
    `set DATA_FILE=./data.json`
 
-If you still run into issues running the API server on your machine, you can run this project in the Udacity classroom.
-
 ### Start the Frontend
 
 First, run your preference of `npm install && npm start` or `yarn && yarn start` at the root of this project. Then you should be able to access http://localhost:3000.
